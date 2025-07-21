@@ -1,6 +1,6 @@
-# 📇 Contact-Info API
+# 📇 Contact-Info 
 
-A lightweight and scalable **backend-only Contact Manager** API<br>
+A lightweight and scalable **backend-only Contact Manager** <br>
 built with **Node.js** and **Express.js**.<br><br>
 Designed to perform efficient **CRUD operations**<br>
 on user contact data with clean, modular architecture.<br><br>
